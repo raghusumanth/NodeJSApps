@@ -1,5 +1,5 @@
 module.exports={
-user:"<dbusername>,
+user:<dbusername>,
 password:<db_password>,
 connectString:<host:port/Schema>
 };
